@@ -1,4 +1,5 @@
 # aws-sqs-monitoring
+https://travis-ci.org/jetsdevteam/aws-sqs-monitoring.svg?branch=master
 
 A starter project for aws-sqs-monitoring application with spring boot and angular 2.
 
