@@ -1,5 +1,5 @@
 # aws-sqs-monitoring
-[![Build Status](https://travis-ci.org/jetsdevteam/aws-sqs-monitoring.svg?branch=master)](https://travis-ci.org/jetsdevteam/aws-sqs-monitoring) | [![SonarQube Quality Gate](https://sonarqube.com/dashboard/index/my:jetsdevteam.aws-sqs-monitoring)
+[![Build Status](https://travis-ci.org/jetsdevteam/aws-sqs-monitoring.svg?branch=master)](https://travis-ci.org/jetsdevteam/aws-sqs-monitoring) [![Quality Gate](https://sonarqube.com/api/badges/gate?key=my:jetsdevteam.aws-sqs-monitoring)](https://sonarqube.com/dashboard/index/my:jetsdevteam.aws-sqs-monitoring)
 
 A starter project for aws-sqs-monitoring application with spring boot and angular 2.
 
